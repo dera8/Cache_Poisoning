@@ -1,7 +1,5 @@
 # Cache Poisoning
 
-**Only available on Linux**
-
 A lab for Docker Security Playground that allows a Cache Poisoning attack.
 
 https://secsi.io/it/docker-security-playground/
